@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+npm-debug.log*
+coverage/
+*.tsbuildinfo
+
+# Keep TypeScript source and project config tracked
+# but ignore generated outputs
+changeBehaviour.js
